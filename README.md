@@ -27,6 +27,9 @@ Dataset yang digunakan berasal dari Kaggle dan berisi data tahunan produksi padi
 - Kelembapan (%)
 - Produksi Padi (Ton) *(target)*
 
+**Link Dataset:**
+https://www.kaggle.com/datasets/ardikasatria/datasettanamanpadisumatera
+
 ---
 
 ## 🔍 Metodologi
