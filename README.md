@@ -77,7 +77,7 @@ Prediksi ini menunjukkan adanya **kenaikan moderat** dibandingkan tahun terakhir
 
 ## ⚠️ Keterbatasan
 - Prediksi dilakukan berdasarkan data historis dan asumsi rata-rata kondisi iklim
-- Model belum mempertimbangkan kejadian ekstrem seperti El Niño, bencana alam, atau perubahan kebijakan pertanian
+- Model belum mempertimbangkan kejadian ekstrem seperti El Nino, bencana alam, atau perubahan kebijakan pertanian
 - Prediksi tahun 2025 bersifat estimasi, bukan nilai absolut
 
 ---
